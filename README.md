@@ -1,11 +1,14 @@
 # shoturlconsole
 
+## About
 Service for URL shortening as a console application
 
 App test in python 3.10
 
 To start application you need run main.py
 
+
+## structure
 curent:
 + main.py (main module. start application)
 + settings.py (module with settings)
@@ -16,7 +19,7 @@ utils:
 + regex.py (module for parsing web url)
 + storage.py (module to storage data)
 
-screenshot:
+## screenshot
 ![1](screenshot/1.png)
 ![2](screenshot/2.png)
 ![3](screenshot/3.png)
